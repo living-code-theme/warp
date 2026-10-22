@@ -5,10 +5,6 @@
 
 [Installation](#installation) · [Flavors](#flavors) · [Configuration](#configuration) · [All ports](https://github.com/living-code-theme)
 
-## Previews
-
-Real application screenshots have not been captured yet.
-
 ## Installation
 
 Download the themes into Warp's [custom themes folder](https://docs.warp.dev/terminal/appearance/custom-themes), then pick one under *Settings → Appearance → Themes*. macOS:
@@ -27,12 +23,10 @@ On Windows the folder is `%APPDATA%\warp\Warp\data\themes\`. If a theme does not
 
 ## Flavors
 
-Expand a flavor for its full-size preview and activation instructions.
+Expand a flavor for its activation instructions.
 
 <details data-lc-flavor="night">
 <summary><strong>Night</strong> · Dark · full palette</summary>
-
-A real application capture is not available yet.
 
 Choose **Living Code Night** under *Settings → Appearance → Themes*.
 
@@ -41,8 +35,6 @@ Choose **Living Code Night** under *Settings → Appearance → Themes*.
 <details data-lc-flavor="frost">
 <summary><strong>Frost</strong> · Dark · softer chroma</summary>
 
-A real application capture is not available yet.
-
 Choose **Living Code Frost** under *Settings → Appearance → Themes*.
 
 </details>
@@ -50,16 +42,12 @@ Choose **Living Code Frost** under *Settings → Appearance → Themes*.
 <details data-lc-flavor="paper">
 <summary><strong>Paper</strong> · Light · near-white slate</summary>
 
-A real application capture is not available yet.
-
 Choose **Living Code Paper** under *Settings → Appearance → Themes*.
 
 </details>
 
 <details data-lc-flavor="signal">
 <summary><strong>Signal</strong> · Dark · teal accent</summary>
-
-A real application capture is not available yet.
 
 Choose **Living Code Signal** under *Settings → Appearance → Themes*.
 
